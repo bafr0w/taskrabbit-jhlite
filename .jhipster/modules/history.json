@@ -293,5 +293,16 @@
       "indentSize" : 2,
       "serverPort" : 8080
     }
+  }, {
+    "module" : "kipe-authorization",
+    "date" : "2023-07-11T16:57:32.043352Z",
+    "properties" : {
+      "packageName" : "com.bafrow",
+      "projectName" : "Task Rabbit",
+      "baseName" : "taskrabbit",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "serverPort" : 8080
+    }
   } ]
 }
