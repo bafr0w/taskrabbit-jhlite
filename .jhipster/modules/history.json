@@ -9,5 +9,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "maven-java",
+    "date" : "2023-07-11T16:46:37.124540Z",
+    "properties" : {
+      "packageName" : "com.bafrow",
+      "projectName" : "Task Rabbit",
+      "baseName" : "taskrabbit",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
   } ]
 }
