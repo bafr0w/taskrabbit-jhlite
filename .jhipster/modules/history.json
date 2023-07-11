@@ -40,5 +40,16 @@
       "indentSize" : 2,
       "serverPort" : 8080
     }
+  }, {
+    "module" : "gitlab-ci",
+    "date" : "2023-07-11T16:47:02.096090Z",
+    "properties" : {
+      "packageName" : "com.bafrow",
+      "projectName" : "Task Rabbit",
+      "baseName" : "taskrabbit",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "serverPort" : 8080
+    }
   } ]
 }
