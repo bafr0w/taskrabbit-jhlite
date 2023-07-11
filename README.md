@@ -54,5 +54,6 @@ docker compose -f src/main/docker/keycloak.yml up -d
 - [Jpa pages](documentation/jpa-pages.md)
 - [CORS configuration](documentation/cors-configuration.md)
 - [Cucumber](documentation/cucumber.md)
+- [Rest pagination](documentation/rest-pagination.md)
 
 <!-- jhipster-needle-documentation -->
