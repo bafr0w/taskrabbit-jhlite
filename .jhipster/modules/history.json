@@ -161,5 +161,16 @@
       "indentSize" : 2,
       "serverPort" : 8080
     }
+  }, {
+    "module" : "flyway",
+    "date" : "2023-07-11T16:48:39.110982Z",
+    "properties" : {
+      "packageName" : "com.bafrow",
+      "projectName" : "Task Rabbit",
+      "baseName" : "taskrabbit",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "serverPort" : 8080
+    }
   } ]
 }
