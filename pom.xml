@@ -26,6 +26,7 @@
     <sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
     <properties-maven-plugin.version>1.1.0</properties-maven-plugin.version>
     <spring-boot.version>3.1.1</spring-boot.version>
+    <logstash-logback-encoder.version>7.4</logstash-logback-encoder.version>
   </properties>
 
   <dependencyManagement>
@@ -56,6 +57,12 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-lang3</artifactId>
+    </dependency>
+
+    <dependency>
+      <groupId>net.logstash.logback</groupId>
+      <artifactId>logstash-logback-encoder</artifactId>
+      <version>${logstash-logback-encoder.version}</version>
     </dependency>
 
     <dependency>
