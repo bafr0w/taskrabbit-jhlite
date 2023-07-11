@@ -1,0 +1,13 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2023-07-11T16:46:35.312107Z",
+    "properties" : {
+      "packageName" : "com.bafrow",
+      "projectName" : "Task Rabbit",
+      "baseName" : "taskrabbit",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
