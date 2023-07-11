@@ -282,5 +282,16 @@
       "indentSize" : 2,
       "serverPort" : 8080
     }
+  }, {
+    "module" : "springdoc-oauth2",
+    "date" : "2023-07-11T16:50:37.181082Z",
+    "properties" : {
+      "packageName" : "com.bafrow",
+      "projectName" : "Task Rabbit",
+      "baseName" : "taskrabbit",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "serverPort" : 8080
+    }
   } ]
 }
