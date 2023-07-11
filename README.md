@@ -45,5 +45,6 @@ docker compose -f src/main/docker/postgresql.yml up -d
 - [Logs spy](documentation/logs-spy.md)
 - [Postgresql](documentation/postgresql.md)
 - [Application errors](documentation/application-errors.md)
+- [Jpa pages](documentation/jpa-pages.md)
 
 <!-- jhipster-needle-documentation -->
