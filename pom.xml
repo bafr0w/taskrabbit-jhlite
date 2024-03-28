@@ -4,7 +4,7 @@
 
   <groupId>com.bafrow</groupId>
   <artifactId>taskrabbit</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0-release</version>
   <name>taskrabbit</name>
   <description>Task Rabbit</description>
   <packaging>jar</packaging>

@@ -1,5 +1,9 @@
 # Task Rabbit
 
+## Taskrabbit using Jhipster Lite
+This project is a simple Backend implementation of the Task rabbit application. It mainly has two actors; a bidder and a tasker.
+One issues tasks, and the other bids to win and execute won tasks.
+
 ## Node.js and NPM
 
 Before you can build this project, you must install and configure the following dependencies on your machine:

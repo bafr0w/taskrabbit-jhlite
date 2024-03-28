@@ -1,12 +1,12 @@
 -- Delete the init change log in the table 'flyway_schema_history' if this file is modified;
 -- Otherwise, the app will not start (because of the checksum)
-# --- !Ups
+--- !Ups
 
 create table task (
                     id uuid not null,
                     title varchar(255) not null,
                     description varchar(255) not null,
-                    location point not null,
+                    location varchar(255) not null,
                     created_at timestamp not null,
                     updated_at timestamp not null,
                     primary key (id)
@@ -17,7 +17,7 @@ create table tasker (
                       name varchar(255) not null,
                       email varchar(255) not null,
                       phone_number varchar(255) not null,
-                      location point not null,
+                      location varchar(255) not null,
                       created_at timestamp not null,
                       updated_at timestamp not null,
                       primary key (id)
